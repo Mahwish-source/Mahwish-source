@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+I’m currently learning Python for Data cleaning, analysis, scripting | SQL for Data extraction, querying databases, joins, aggregations | Excel for Data Cleaning, Preprocessing, Manipulation, Exploratory Data Analysis (EDA), Statistical Analysis, Reporting & Automation | Power BI for Data visualization, dashboards, interactive reports.
 
-<!--
-**Mahwish-source/Mahwish-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 All of my projects are available at https://www.datascienceportfol.io/mavishahamim6987
 
-Here are some ideas to get you started:
+💬 Ask me about Python, SQL, Excel, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 My Portfolio www.linkedin.com/in/mahwish-s-656192204
+
+📧 How to reach me mavishahamim6987@gmail.com
+
+🚀 Know about my experiences www.linkedin.com/in/mahwish-s-656192204
+
+
