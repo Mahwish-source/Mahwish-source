@@ -1,8 +1,10 @@
 
 # 👋 Hi, I'm Mahwish Shamim
+
 🚀 Junior Data Analyst | Power BI Developer | Aspiring Data Scientist  
 
 I’m currently learning **Python** for data cleaning, analysis, and scripting | **SQL** for querying databases | **Excel** for data preprocessing and reporting | **Power BI** for interactive dashboards and visualizations.
+
 👨‍💻 All of my projects are available at https://www.datascienceportfol.io/mavishahamim6987
 
 💬 Ask me about Python, SQL, Excel, Power BI
