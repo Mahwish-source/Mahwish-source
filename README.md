@@ -26,7 +26,7 @@ I’m currently learning **Python** for data cleaning, analysis, and scripting |
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ## 📂 Featured Projects
-- [Iris Dataset EDA](link-to-your-repo) 🌸 – Exploratory Data Analysis using Python, Pandas, and Seaborn
+- [Iris Dataset EDA](https://github.com/Mahwish-source/iris-eda-with-pandas-seaborn) 🌸 – Exploratory Data Analysis using Python, Pandas, and Seaborn
 - [Super Store Sales Analysis](link-to-your-repo) 📊 – Sales dashboard in Excel with pivot tables and charts
 - [Customer Segmentation Using RFM](link-to-your-repo) 🎯 – Segmentation analysis using Python
 - [SQL-Python E-commerce Project](link-to-your-repo) 🛒 – Data exploration and analysis with SQL and Python
