@@ -25,14 +25,6 @@ I’m currently learning **Python** for data cleaning, analysis, and scripting |
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![Mahwish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahwishShamim&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahwishShamim&layout=compact&theme=radical)
-
----
-
 ## 📂 Featured Projects
 - [Iris Dataset EDA](link-to-your-repo) 🌸 – Exploratory Data Analysis using Python, Pandas, and Seaborn
 - [Super Store Sales Analysis](link-to-your-repo) 📊 – Sales dashboard in Excel with pivot tables and charts
